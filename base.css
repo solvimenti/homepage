@@ -39,3 +39,14 @@
     margin: 10px;
     width: 30px;
 }
+
+.SubscribeForm {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.SubscribedNotice {
+    display: none;
+}
