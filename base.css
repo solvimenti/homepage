@@ -44,9 +44,16 @@
     align-items: center;
     display: flex;
     flex-direction: column;
+    font-size: 120%;
     text-align: center;
+    width: 70%;
+}
+
+.FormField {
+    font-size: 130%;
 }
 
 .SubscribedNotice {
     display: none;
+    width: 70%;
 }
