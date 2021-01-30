@@ -8,7 +8,8 @@ Contudo, não és o único, e em cada momento existem muitas pessoas em todo o m
 
 ---
 
-solvimenti | 2021
+solvimenti, 2021
 
 Email: solvimenti@gmail.com
+
 Instagram: [solvimenti@](https://instagram.com/solvimenti)
